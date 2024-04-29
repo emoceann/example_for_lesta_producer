@@ -1,0 +1,1 @@
+from src.producer.schemas.log_schema import LogDataSchema
